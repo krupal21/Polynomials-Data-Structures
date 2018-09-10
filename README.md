@@ -2,10 +2,13 @@
 
 Using linked list to do various operations with polynomials in Java. Project at Rutgers University-New Brunswick for Sesh Venugopal in CS112 Data Structures.
 
-Input a text file into the program 
-'''
-Select [1] for ADD, [2] for MULTIPLY, [3] for EVALUATE, and [4] for EXIT. 
-'''
+Input a text file into the program and sele 
+```
+[1] for ADD
+[2] for MULTIPLY 
+[3] for EVALUATE 
+[4] for EXIT. 
+```
 Then, input a second text file and obtain a result. The text files simply have numbers that will later be converted into a linked list with coefficients and degrees of the polynomial in descending order.
 
 OBJECTIVE
